@@ -24,7 +24,7 @@ public class BuyItemActivity extends AppCompatActivity {
     //지도API
     //LinearLayout mapview;
     TMapView tmap;
-    private final String MAPAPPKEY = "";
+    private final String MAPAPPKEY = "1947620f-e0aa-43a5-8e27-11c6d1dab9b5";
     double lat;
     double lng;
 
